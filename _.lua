@@ -1,6 +1,3 @@
---[[
-    HttpSpy v1.1.3
-]]
 local mobile = _G.Fluxus
 assert(syn or http, "Unsupport exploit (should support syn.request or http.request)");
 
